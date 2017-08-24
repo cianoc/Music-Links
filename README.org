@@ -1,0 +1,50 @@
+* Timestretching
+** http://werner.yellowcouch.org/Papers/zathras15/
+* Reverb
+** https://valhalladsp.com/2009/05/30/schroeder-reverbs-the-forgotten-algorithm/
+* Music Math
+** Science of Acoustics
+https://ccrma.stanford.edu/CCRMA/Courses/152/150.html
+** Bark Scale
+https://ccrma.stanford.edu/~jos/bbt/bbt.html
+** Sampling
+
+
+Part 1
+https://www.soundonsound.com/techniques/lost-art-sampling-part-1
+
+Part 2
+https://www.soundonsound.com/techniques/lost-art-sampling-part-2
+
+Part 3
+https://www.soundonsound.com/techniques/lost-art-sampling-part-3
+
+Part 4
+https://www.soundonsound.com/techniques/lost-art-sampling
+
+Part 5
+https://www.soundonsound.com/techniques/lost-art-sampling-part-5
+
+Part 6
+https://www.soundonsound.com/techniques/lost-art-sampling-6
+
+Part 7
+https://www.soundonsound.com/techniques/lost-art-sampling-7
+** Samples
+http://hhhhappy.com/yellowstone-national-park-release-massive-catalogue-of-ambient-sounds-into-public-domain-for-your-sampling-pleasure/
+
+* Music Analysis
+** Beatles
+http://musikforskning.se/stmonline/vol_2/KGJO/Johansson.pdf
+
+* CPP
+** Tour
+https://github.com/sosolimited/Cpp-Handbook/blob/master/tour-of-cpp.md#user-content-functional-programming
+
+* OpenGL
+** Starting Project Boilerplate
+https://github.com/Polytonic/Glitter
+** Tutorial
+https://learnopengl.com/
+** Book of Shaders
+https://thebookofshaders.com/
