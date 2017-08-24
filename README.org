@@ -48,3 +48,92 @@ https://github.com/Polytonic/Glitter
 https://learnopengl.com/
 ** Book of Shaders
 https://thebookofshaders.com/
+
+Composition Resources
+http://wiki.youngcomposers.com/
+
+
+Music Theory lectures
+https://www.youtube.com/watch?v=T4GoEz-oVMs&t=3s
+https://www.youtube.com/watch?v=49L3hOyOKCY
+https://www.youtube.com/watch?v=6WMsg3NoS7c
+https://www.youtube.com/watch?v=pWgtNJTOrl0
+
+Supercollider Stuff to try
+https://github.com/crucialfelix/cxaudio/tree/master/Instr
+https://github.com/elosine/wavetablesynthesis
+
+
++ https://www.youtube.com/watch?v=CFD72PXOmxA
+
+DSP Resources
+http://repo.sme-ccppd.info/did/tesi/2013_Moro.pdf
+
+Samples
+
+Sound Fonts
+http://homerecording.com/bbs/general-discussions/user-contributions/free-520mb-steinway-piano-soundfont-388608/
+https://www.kvraudio.com/forum/viewtopic.php?f=42&t=466195
+https://sites.google.com/site/soundfonts4u/
+http://bedroomproducersblog.com/2016/06/29/vsco-community-edition/
+
+Moog 15
+https://forum.audiob.us/discussion/13426/moog-model-15-tips-for-noobs/p1
+https://forum.moogmusic.com/viewtopic.php?f=18&t=25545
+
+Modular
+https://www.cim.mcgill.ca/~clark/nordmodularbook/nm_book_toc.html
+https://rhordijk.home.xs4all.nl/G2Pages/index.htm
+http://electro-music.com/nm_classic/015_workshops/Clavia/NordModularWorkshops&Threads/WerkMap/WorkShops/Hordijk2001/BasicsWorkshop.htm
+http://learningmodular.com/category/videos/
+
+Sound Design
+https://www.frodebeats.com/physical-modelling
+https://www.frodebeats.com/drums
+http://www.modular-planet.de/modular-planet-survey.html
+https://stimresp.wordpress.com/tempest-recipes/
+
+Cross Modulation
+http://electro-music.com/forum/viewtopic.php?t=7256
+
+FM Synthesis
+https://asalwaysicouldbewrong.wordpress.com/2016/03/20/frequency-modulation-its-not-so-bad-part-i-introduction/
+
+Synthesis
+http://www.emusician.com/how-to/1334/master-class-synth-secrets-of-the-pros/45277
+
+Tutorials
+Ambient
+https://www.ambientonline.org/forum/ambient/tutorials/483-quick-video-tutorial-on-how-to-make-drones-with-ni-massive
+Mixing
+https://www.pdf-archive.com/2011/02/23/guidetomixing/preview/page/3/
+Sound Design
+https://www.pyramind.com/training/blog/2012/08/16/sound-design-tutorials-creating-compelling-pads-with-brian-trifon-trifonic
+Granular Synthesis
+http://soundbytesmag.net/granular-synthesis-for-rookies/
+https://www.youtube.com/watch?v=hrZII8Sjzqs
+https://www.youtube.com/watch?v=XZz0Ni3qzPo
+https://www.youtube.com/watch?v=IQSG_nk3_LM
+ARP2600
+https://www.youtube.com/watch?v=QfsiDs4QO6o
+https://www.youtube.com/watch?v=q1IDcqKFvEc
+https://www.youtube.com/watch?v=f9r8SPUTnT8
+https://www.youtube.com/watch?v=xu-UNX4kwWM
+https://www.youtube.com/watch?v=0jWtJYk4iOE
+
+Random
+https://www.youtube.com/watch?v=8_l8NQhWu-s
+
+History
+https://www.youtube.com/watch?v=qJ97tOfU6Io
+
+Sequencing
+https://www.youtube.com/watch?v=NvrxQbh6vAg
+
+Mixing
+http://training.npr.org/audio/the-ear-training-guide-for-audio-producers/
+https://audioskills.com/tips/mixing/
+https://audioskills.com/tips/eq/
+https://audioskills.com/tips/compression/
+
+
