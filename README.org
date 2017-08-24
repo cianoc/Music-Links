@@ -53,7 +53,7 @@ Composition Resources
 http://wiki.youngcomposers.com/
 
 
-Music Theory lectures
+* Music Theory lectures
 https://www.youtube.com/watch?v=T4GoEz-oVMs&t=3s
 https://www.youtube.com/watch?v=49L3hOyOKCY
 https://www.youtube.com/watch?v=6WMsg3NoS7c
@@ -136,4 +136,137 @@ https://audioskills.com/tips/mixing/
 https://audioskills.com/tips/eq/
 https://audioskills.com/tips/compression/
 
+* Modular
+https://www.youtube.com/playlist?list=PLBF4KYAe97cQrjiV0ezS6mC-QSsUKNcSq
+https://www.youtube.com/playlist?list=PLa9Em_H8Xs_al-r_90xYiuiz-3N8HZyf_
+* Filter Design
+http://www.kvraudio.com/forum/viewtopic.php?t=350246
+https://cytomic.com/index.php?q=technical-papers
+https://urs.silvrback.com/zero-delay-feedback
+* SCIPy
+http://www.scipy-lectures.org/index.html
+* Impulse Responses
+http://emmanuelderuty.com/pages/impulses/
+http://www.samplicity.com/download/
+** Creative Uses
+https://www.soundonsound.com/techniques/creative-convolution-new-sounds-impulse-responses
+
+* SuperCOllider Synths
++ https://github.com/lvm/BALC/blob/master/synths.scd
++ https://github.com/lvm/BALC
++ https://github.com/supercollider-quarks/ddwCommon/blob/master/Misc/FxPatch.sc
++ https://github.com/supercollider-quarks/adclib/tree/master/Classes/UGens
++ https://github.com/brunoruviaro/SynthDefs-for-Patterns
++ https://raw.githubusercontent.com/elosine/sc_concepts_utilities/master/toypiano2.scd
++ https://github.com/elosine/wavetablesynthesis/tree/master/wavetables
++ https://github.com/elosine/synthdefs
++ https://github.com/elosine/sc_concepts_utilities - includes a convolution reverb
++ https://github.com/elosine/ddmi2015_16 - course of some kind
++ https://www.youtube.com/watch?v=_2N7lG5uzJI - infinite hold
++ Lot of Repositories to explore
+++ https://github.com/elosine
++ Glitch Synthesis
+++ https://www.youtube.com/watch?v=93nrnr5eOn0
++ Reverb
+++ https://github.com/supercollider-quarks/adclib/blob/master/Classes/UGens/AdCVerb.sc
+ + Not sure I need this, but in case
+** Port from PureData
+https://forum.pdpatchrepo.info/topic/4796/my-clonewheel-organ/3
+** String Synth
+https://www.soundonsound.com/sound-advice/q-how-do-i-re-create-sound-those-old-string-synths
+https://www.soundonsound.com/reviews/eminent-310-string-synthesizer#para4
+
+* Like Paul Stretch
++ http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/Paulstretch-effect-in-SC-td6059228.html
+* Supercollider on web
+https://github.com/sebpiq/rhizome 
+* Sequencer
+http://i-score.org/
+* Livecodign
+https://theseanco.github.io/howto_co34pt_liveCode/
+* Synthesis
+*** PadSynth
+https://wiki.linuxaudio.org/wiki/zynaddsubfx_manual#padsynth_algorithm
+*** Resonz and Ring
+http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/Resonz-x-Ringz-gain-issues-td7615379.html
+*** Suggestions for better synthesis
+http://zynaddsubfx.sourceforge.net/doc_0.html
+*** Formants and vowells
+http://sccode.org/1-504
+*** Paul Stretch
++ https://github.com/paulnasca/paulstretch_python/blob/master/paulstretch_mono.py
+*** Drones
+https://www.gearslutz.com/board/electronic-music-instruments-electronic-music-production/197168-tips-making-ambient-drones-steve-roach-drone-zone-style.html
+** Stutter Sample Effect
+http://sccode.org/1-50T
+** SuperCollider Resources
+https://github.com/triss/ChordSymbol/blob/master/classes/ChordSymbol.sc
+*** Scala
+https://github.com/supercollider-quarks/TuningLib/blob/master/Scala.sc
+* LiveCoding
+https://www.youtube.com/channel/UC09kahMLKXpcNzltxIXlq5g
+* Synthesis Recipes
+https://www.youtube.com/watch?v=kktHsF9AA18&list=PLAXkVXyP6y5NLitPZiav-bknzKw_9tJs_&index=1
+* SuperCollider
+** Cymbals
+http://www.mcld.co.uk/cymbalsynthesis/
+** Quarks
++ MP3       - Read an MP3 file or stream, or write an MP3 file, within SuperCollider
++ batchNRT  - A method which makes it easy to batch-process audio files in SC
+
+* Top Sound Design Tuts
+https://music.tutsplus.com/series/top-sound-design-tuts--audio-10862
+** Livecoding thingy
+http://www.vsxu.com/
+* Linux Audio
+** VST Host
+https://github.com/osxmidi/LinVst
+* Oscillators Creation/Programming
+** NOn-aliasing approaches
++ http://martin-finke.de/blog/articles/audio-plugins-018-polyblep-oscillator/
++ http://lib.tkk.fi/Diss/2014/isbn9789526055862/isbn9789526055862.pdf
+** Writing Plugins
+http://www.martin-finke.de/blog/
+* Reverb
+** Shroeder (nice forgotten algorithm)
+https://valhalladsp.com/2009/05/30/schroeder-reverbs-the-forgotten-algorithm/
+* Numpy
+https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+* OPenGL (Haskell)
+https://github.com/sleexyz/hylogen
+* Haskell
+** Conductive
+Haskell client along with Rohan Drape's stuff
+** CSound
+https://github.com/spell-music/csound-expression/blob/master/tutorial/chapters/appendix/CsoundInstro.markdown
+* CSound
+Catalog of Csound stuff - very useful, look into porting to SuperCollider
+http://www.codemist.co.uk/AmsterdamCatalog/
+Also useful stuff to steal here:
+https://github.com/spell-music/csound-expression/tree/master/tutorial/chapters
+* Modular Synthesis TUtorials
++ https://www.muffwiggler.com/forum/viewtopic.php?t=37159&sid=ee8da4b21f947dcc21ae98fcb6727e83
++ https://www.youtube.com/playlist?list=PLmYpnwqLK2TOkDneeTjvTmwKI5HHWLdEy
++ https://www.synthesizers.com/tutorials.html
+* Reaper
+** PLugin Extension
+http://www.standingwaterstudios.com/
+* Reverb
++ https://ccrma.stanford.edu/~dattorro/EffectDesignPart1.pdf
++ https://ccrma.stanford.edu/~jos/cfdn/Feedback_Delay_Networks.html
++ http://tre.ucsd.edu/wordpress/wp-content/uploads/2016/05/pdreverb.zip
+Essential
+** Tutorial
+http://www.lulu.com/us/en/shop/geoffrey-francis/reaper-4-unleashed/paperback/product-16954502.html
+** Reaper Theme
+https://www.extremraym.com/en/x-raym-analog-reaper-theme/
+** Getting STarted
+https://www.reddit.com/r/Reaper/comments/6jbo5a/how_do_i_get_started_with_reaper/#bottom-comments
+* Theory
+http://slab.org/thesis/
+* DIY Controllers
+http://www.instructables.com/id/A-Framework-For-Making-Affordable-Stylish-Modula/
+http://djtechtools.com/2015/08/25/how-to-make-your-own-diy-midi-controller/
+* Reaktor userful stuff
+https://www.reaktortutorials.com/
 
