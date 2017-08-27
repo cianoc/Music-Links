@@ -271,3 +271,5 @@ http://djtechtools.com/2015/08/25/how-to-make-your-own-diy-midi-controller/
 https://www.reaktortutorials.com/
 * Fantastic Resource
 + http://science-of-sound.net/
+* Spring Reverb Thesis
++ http://lib.tkk.fi/Diss/2013/isbn9789526053684/isbn9789526053684.pdf
