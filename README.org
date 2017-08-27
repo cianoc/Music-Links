@@ -269,4 +269,5 @@ http://www.instructables.com/id/A-Framework-For-Making-Affordable-Stylish-Modula
 http://djtechtools.com/2015/08/25/how-to-make-your-own-diy-midi-controller/
 * Reaktor userful stuff
 https://www.reaktortutorials.com/
-
+* Fantastic Resource
++ http://science-of-sound.net/
