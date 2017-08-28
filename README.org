@@ -275,3 +275,7 @@ https://www.reaktortutorials.com/
 + http://lib.tkk.fi/Diss/2013/isbn9789526053684/isbn9789526053684.pdf
 * Nice Presentation on digital oscillators
 + http://users.spa.aalto.fi/vpv/DAFX13-keynote-slides.pdf
+* Digital Modelling
++ http://lib.tkk.fi/Diss/2013/isbn9789526053882/isbn9789526053882.pdf
+* Fascinating Thesis on Analog Modelling
++ https://ccrma.stanford.edu/~stilti/papers/TimStilsonPhDThesis2006.pdf
